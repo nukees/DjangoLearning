@@ -19,10 +19,10 @@ ___site-name___(внешняя корневая папка(1)) -> ___site-name__
 ```
 |--- site-name(1)
          |---site-name(2)
-                 |- __init__.py
-                 |- settings.py
-                 |- urls.py
-                 |- wsgi.py
+         |       |- __init__.py
+         |       |- settings.py
+         |       |- urls.py
+         |       |- wsgi.py
          |- manage.py
 ```
 
